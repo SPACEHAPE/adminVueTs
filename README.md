@@ -1,6 +1,10 @@
 
 ## 技术栈
-vue3 + typeScript + ehcarts + element-plus + vite
+vue3 + typeScript + echarts + element-plus + vite
+
+## 后端技术
+地址：https://github.com/SPACEHAPE/nodeAdmin
+技术：node + express + mySql
 
 
 ## 安装步骤
