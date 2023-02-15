@@ -1,4 +1,8 @@
 
+## 技术栈
+vue3 + typeScript + ehcarts + element-plus + vite
+
+
 ## 安装步骤
 
 ```
